@@ -1,0 +1,60 @@
+# API / App Layer (optional but common in RAG apps)
+fastapi
+uvicorn
+faiss-cpu
+
+# Environment Variables
+python-dotenv
+
+langgraph
+langchain_huggingface
+
+langchain
+langchain-core
+langchain-community
+langchain_chroma
+
+# LLM Providers
+
+langchain-openai
+langchain-mistralai
+openai
+mistralai
+
+
+# Vector Database
+
+chromadb
+
+# Embedding Models
+
+sentence-transformers
+
+# Text Processing
+pydantic
+tiktoken
+
+httpx
+
+
+# Document Loaders dependencies
+requests
+beautifulsoup4
+lxml
+pypdf
+unstructured
+
+# Data Handling
+
+pandas
+numpy
+
+
+# UI (optional)
+
+streamlit
+
+# Utilities
+
+tqdm
+requests
