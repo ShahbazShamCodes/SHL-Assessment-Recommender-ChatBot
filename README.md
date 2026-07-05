@@ -1,4 +1,4 @@
-SHL Assessment Recommender ChatBot
+**SHL Assessment Recommender ChatBot**
 
 SHL Assessment Recommender is an AI-powered RAG application built with FastAPI, LangChain, Mistral AI, and ChromaDB. It retrieves SHL assessment data from a vector database to provide accurate, context-aware recommendations, assessment comparisons, and conversational responses based solely on the SHL assessment catalog. SHL Assessment Recommender – Design & Implementation Approach
 
